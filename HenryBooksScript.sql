@@ -1,4 +1,9 @@
-TEE taylor_dandy_Ch3Henry.txt
+/*
+	ScriptName: HenryBooksScript.sql
+	Author: Dandy H. Taylor
+	Create Date: 2016.03.12
+	
+*/
 
 /* CREATE DATABASE */
 CREATE DATABASE henry;

@@ -1,5 +1,9 @@
-/* Create Log file */
-TEE Taylor_Dandy_Ch3Premiere.txt
+/*
+	ScriptName: PremiereScript.sql
+	Author: Dandy H. Taylor
+	Create Date: 2016.02.28
+	
+*/
 
 /* 4. Create Database */
 CREATE DATABASE premiere;
