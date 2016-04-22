@@ -1,0 +1,3 @@
+# mysqlbasics
+
+Starter Readme
